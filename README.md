@@ -18,8 +18,9 @@ Parašykite užklausas:
 
 ## Duomenų bazės modelis ##
 
+![model](https://user-images.githubusercontent.com/72549610/197294582-06795d40-fedf-4cec-8e45-6ff4bab8ee90.png)
 
-![model](https://user-images.githubusercontent.com/72549610/197291906-dc2568f8-d669-4cb2-b1a7-1533ffe8c836.png)
+
 
 ## Paleidimas ##
 
