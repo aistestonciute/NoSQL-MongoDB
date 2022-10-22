@@ -20,18 +20,4 @@ Parašykite užklausas:
 
 ![model](https://user-images.githubusercontent.com/72549610/197353642-cb919e17-15ab-4c16-9638-3b4221964956.png)
 
-## Duomenų failai ##
-
-* **main.py** - pagrindinis failas
-* **Review.py** - review kolekcijos duomenys
-* **Book.py** - book kolekcijos duomenys
-
-## Paleidimas ##
-
-Parsisiuntus duomenis paleiskite pagrindinį failą:
-```
-python3 main.py
-```
-Toliau vykdykite programoje pateiktus nurodymus
-
 
